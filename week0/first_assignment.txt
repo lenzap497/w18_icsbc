@@ -1,8 +1,9 @@
 1) What are three interesting facts about you?
+puts "My eyes have different coloration."
+
 
 
 2) What's your favorite song and movie?
 
 
 3) Why do you want to learn how to program?
-help
