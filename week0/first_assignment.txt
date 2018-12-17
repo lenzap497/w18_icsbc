@@ -1,5 +1,5 @@
 1) What are three interesting facts about you?
-puts "My eyes have different coloration."
+My eyes have different coloration.
 
 
 
