@@ -1,9 +1,11 @@
 1) What are three interesting facts about you?
-My eyes have different coloration.
-
+My eyes are colored differently; that is, they are both hazel, but have different colored regions.
+I like to cook meals, especially egg breakfast dishes.
 
 
 2) What's your favorite song and movie?
-
+My favorite song is "What's it Gonna Be?" by Shura, and my favorite movie is Arrival.
 
 3) Why do you want to learn how to program?
+Programming is a useful skill, and I think it is important to have--at the very least--a basic understanding of it.
+However, I am also interested in the ways programming is used as a tool in research.
