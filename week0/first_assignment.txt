@@ -8,4 +8,4 @@ My favorite song is "What's it Gonna Be?" by Shura, and my favorite movie is Arr
 
 3) Why do you want to learn how to program?
 Programming is a useful skill, and I think it is important to have--at the very least--a basic understanding of it.
-However, I am also interested in the ways programming is used as a tool in research.
+However, I am also interested in the ways programming is used as a tool in research, particularly in bioengineering, which I am currently studying.
