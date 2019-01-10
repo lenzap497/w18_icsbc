@@ -1,10 +1,12 @@
-def romanize number
+def romanize_new number
 num = number.to_i
   roman = [['M', 1000], ['C', 100, 'M','D'], ['X', 10, 'C', 'L'], ['I', 1, 'X', 'V']]
   str = ''
   roman.each do |rom|
     a = num / rom[1]
-    if a == 9
+    if num > 3000 || num < 0
+      return nil
+    elsif a == 9
       num = num - a * rom[1]
       str = str + rom[0] + rom[2]
     elsif a < 9 && a >= 5
