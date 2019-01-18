@@ -3,11 +3,14 @@
 
 def count_array(array)
   count = 0
-
-
-  # FILL IN WITH YOUR CODE #
-
-
+  array.each do |element|
+    if element.kind_of?(Integer)
+      count += 1
+    else
+      count += count_array(element)
+    end
+  end
+  count
 end
 
-puts(count_array([[2, 4, 6], 8, [10, 12, [14, 16]]])) # expected: 8
+# puts(count_array([[2, 4, 6], 8, [10, 12, [14, 16]]])) # expected: 8
