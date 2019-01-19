@@ -4,7 +4,7 @@
 def count_array(array)
   count = 0
   array.each do |element|
-    if element.kind_of?(Integer)
+    if !element.kind_of?(Array)
       count += 1
     else
       count += count_array(element)
